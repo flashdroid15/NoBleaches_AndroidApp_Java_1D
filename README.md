@@ -32,6 +32,6 @@ Moreover, NoBleaches’ User Interface (UI) is simple and has a very low learnin
 
 ## Remarks
 
-> Contact team members for full documentation
+> Full documentation is available through upon request. Contact repository owner (@flashdroid15) or any of the team members above. 
 
 > Note that a ``google-services.json`` file was deleted from ``client/app/google-services.json`` to prevent unauthorized access.
