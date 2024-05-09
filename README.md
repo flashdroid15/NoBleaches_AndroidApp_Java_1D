@@ -9,7 +9,7 @@ Jan 2024 - Apr 2024
 | 1006955    | Matthew Lalonde-Low Jiaxin         |
 | 1007107    | Mohammad Saif Zia                  |
 | 1007198    | Muhammad Ammar Bin Mohamad Sofian  |
-| 1007488    | Samuel Roshan                      |
+| 1007488    | Roshan Samuel                      |
 | 1006019    | Long Raphael James                 |
 | 1007494    | Mithunbalaji Mageswari Ganeshkumar |
 
