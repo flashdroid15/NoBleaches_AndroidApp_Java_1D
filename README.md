@@ -1,6 +1,6 @@
 # NoBleaches: A full-stack IoT solution
-1D Project under 50.001 Information Systems & Programming (SUTD)
-
+1D Project under 50.001 Information Systems & Programming (SUTD)  
+Jan 2024 - Apr 2024
 
 ## Team Members
 
