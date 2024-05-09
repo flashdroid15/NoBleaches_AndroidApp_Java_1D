@@ -1,5 +1,5 @@
-# 1D Project for 50.001 Information Systems & Programming (SUTD)
-NoBleaches: A full-stack IoT solution
+# NoBleaches: A full-stack IoT solution
+1D Project under 50.001 Information Systems & Programming (SUTD)
 
 
 ## Team Members
